@@ -11,8 +11,7 @@ The projects tries to create a portal filled with crowdsourced documentation and
 
 0.1.2 (25/5):
 - Bugfixes
-- Swipe in from left on mobile to show sidebar
-- 
+- Swipe in from left on mobile to show sidebar  
 
 0.2.1 (16/6):
 	- Edit Items
