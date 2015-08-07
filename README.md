@@ -4,6 +4,11 @@ This is the main repo for the Docopedia project.
 The projects tries to create a portal filled with crowdsourced documentation and articles of very high quality.
 
 ### Version
+0.4.0 (7/8):
+- Advanced search
+- Document browsing
+- Login polish
+
 0.3.0 (14/7)
 - Code highlighting in documents
 - Search page (Elasticsearch)
