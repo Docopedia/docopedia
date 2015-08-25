@@ -4,7 +4,13 @@ This is the main repo for the Docopedia project.
 The projects tries to create a portal filled with crowdsourced documentation and articles of very high quality.
 
 ### Version
-0.4.0 (7/8):
+0.5.0 (25/8)
+- New pagewide design
+- Static frontpage
+- Google and Facebook login
+- Suggestions
+
+0.4.0 (7/8)
 - Advanced search
 - Document browsing
 - Login polish
@@ -15,7 +21,7 @@ The projects tries to create a portal filled with crowdsourced documentation and
 - Tech overview
 - Login dialog replaces login page
 
-0.2.0 (16/6):
+0.2.0 (16/6)
 - Edit Items  
 - Edit Tech  
 - Show revisions on items  
@@ -23,11 +29,11 @@ The projects tries to create a portal filled with crowdsourced documentation and
 - Related Techs  
 - Item Tags
 
-0.1.2 (25/5):
+0.1.2 (25/5)
 - Bugfixes
 - Swipe in from left on mobile to show sidebar  
 
-0.1.1 (18/5):
+0.1.1 (18/5)
 - Create Tech and Item
 - View Tech and Item
 - User login
