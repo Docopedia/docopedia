@@ -3,7 +3,7 @@
 This is the main repo for the Docopedia project.
 The projects tries to create a portal filled with crowdsourced documentation and articles of very high quality.
 
-### Version
+### Changelog
 0.6.0 (18/9)
 - Dynamic frontpage
 - New design of techpage
