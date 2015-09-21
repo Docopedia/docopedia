@@ -9,7 +9,8 @@ The projects tries to create a portal filled with crowdsourced documentation and
 - New design of techpage
 - Comments on documents
 - New Major version of Froala wysiwyg editor
-- Changed code highlighting to Highlight.js- 
+- Changed code highlighting to Highlight.js
+- Change password
 
 0.5.0 (25/8)
 - New pagewide design
